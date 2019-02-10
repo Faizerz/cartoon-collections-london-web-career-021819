@@ -1,3 +1,10 @@
+dwarves = ["Doc", "Dopey", "Bashful", "Grumpy" 
+  Sneezy
+  Sleepy
+  Happy
+]
+
+
 def roll_call_dwarves
   # Your code here
 end
