@@ -29,6 +29,7 @@ def long_planeteer_calls(planeteer_calls)
 end
 long_planeteer_calls(planeteer_calls)
 
+food = ["garlic", "rosemary", "bread"]
 
 def find_the_cheese(food)
    cheese_types = ["cheddar", "gouda", "camembert"]
