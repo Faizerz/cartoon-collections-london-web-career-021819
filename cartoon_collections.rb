@@ -8,8 +8,9 @@ end
 
 
 planeteer_calls = ["earth", "wind", "fire", "water", "heart"]
-def summon_captain_planet
-  # Your code here
+def summon_captain_planet(planeteer_calls)
+  planeteer_calls.collect do |call|
+    
 end
 
 def long_planeteer_calls# code an argument here
