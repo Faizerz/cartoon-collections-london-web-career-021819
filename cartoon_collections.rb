@@ -37,3 +37,5 @@ def find_the_cheese(food)
      cheeses.include?(fud)
     end
 end
+
+find_the_cheese(food)
